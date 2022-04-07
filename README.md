@@ -23,6 +23,7 @@
 ## 注意点
 
 exeファイルですので、windowsでのみ実行可能です。
+macの方は[こちら](https://github.com/mksmkss/File_renamer_for_Mac)
 
 ## 作成者
 
