@@ -4,7 +4,7 @@
 ## 事前準備
 
 1. デスクトップに「rename」など適当な名前のフォルダーを作ります。
-2. windows標準のメモ等でprofile.txtを作成し、フォルダー内にfile_rename.exeと共に入れます。<br>
+2. windows標準のメモ等でprofile.txtを作成し、フォルダー内にfile_rename.exeと共に入れます。<br>変更した際保存を忘れずにしてください。
 **<span style="color:yellow">この時、名前はprofile.txtでないとエラーが起きます。</span>**
 3. profile.txtを開き、名前と学籍番号を入れます。
 この時、一行目は名前、二行目には学籍番号を入れます。
