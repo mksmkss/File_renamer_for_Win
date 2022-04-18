@@ -21,8 +21,9 @@
 4. Task nameには、「課題_1」や「力学課題」のようなものを入れてください。
 5. 「Enter Key」または「Rename」を押すと実行され、選択したファイルの名前が「課題名_学籍番号_名前.(拡張子)」に変更されます。
 
-https://user-images.githubusercontent.com/69677364/163747642-8a50f979-9dc9-44ba-b203-1ae9f075e23f.mp4
-このGIFはMacOSのものです
+
+https://user-images.githubusercontent.com/69677364/163747642-8a50f979-9dc9-44ba-b203-1ae9f075e23f.mp4<br>
+この動画はMacOSのものです
 
 ## 注意点
 
